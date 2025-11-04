@@ -1,5 +1,5 @@
 # Elham Fazli
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/lhmfzl)
+[![Github](https://github.com/lhmfzl)
 
 - 💻 ...
 - 🌱 ...
